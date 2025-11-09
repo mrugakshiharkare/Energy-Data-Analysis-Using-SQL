@@ -1,4 +1,4 @@
-🌎 SQL Project — **World Wide Energy Comsumption**
+🌎 ### SQL Project — **World Wide Energy Comsumption**
 
 💡 `Introduction`
 This project explores global energy trends using SQL — covering energy production, consumption, emissions, GDP, and population across multiple countries and years.
