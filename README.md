@@ -45,11 +45,11 @@ CREATE DATABASE ENERGYDB2;
 
 ### 📊 `Key Insights`
 
-🔹 Energy Trends: Fossil fuels contribute the most to global emissions, while renewable adoption is still in progress.
-🔹 Economic Insights: Top GDP countries like the USA, China, Japan, and India show higher consumption rates.
-🔹 Environmental View: Some nations produce more energy than they consume, while others depend heavily on imports.
-🔹 Population Impact: Rapidly growing populations tend to show increased per capita energy demand.
-🔹 Global Change: A noticeable dip in 2020 emissions reflects the pandemic’s temporary impact on energy use.
+🔹 Energy Trends: Fossil fuels contribute the most to global emissions, while renewable adoption is still in progress.  
+🔹 Economic Insights: Top GDP countries like the USA, China, Japan, and India show higher consumption rates.  
+🔹 Environmental View: Some nations produce more energy than they consume, while others depend heavily on imports.  
+🔹 Population Impact: Rapidly growing populations tend to show increased per capita energy demand.  
+🔹 Global Change: A noticeable dip in 2020 emissions reflects the pandemic’s temporary impact on energy use.  
 
 ### 📘 `Learnings`
 - Built a complete relational database system from scratch.
