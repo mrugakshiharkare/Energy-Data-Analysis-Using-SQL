@@ -23,7 +23,7 @@ The database contains six interrelated tables built using foreign key constraint
 📌 Each of the above tables (except country) is linked to it using a foreign key relationship.
 
 ### 🧩 `ER Diagram`
-The ER diagram file in SQL_Files/World_Wide_Energy_Consumption_ER_Diagram.png represents the overall database design — showing how each table connects through the country attribute.
+The ER diagram file https://github.com/mrugakshiharkare/World-Wide-Energy-Consumption/blob/main/World_Wide_Energy_Consumption_ER_Diagram.png represents the overall database design — showing how each table connects through the country attribute.
 
 ### ⚙️ `Steps to Run the Project`
 1. Create the database
