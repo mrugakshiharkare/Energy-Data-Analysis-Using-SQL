@@ -28,7 +28,7 @@ The ER diagram https://github.com/mrugakshiharkare/World-Wide-Energy-Consumption
 ### ⚙️ `Steps to Run the Project`
 1. Create the database
 CREATE DATABASE ENERGYDB2;
-2. Run the SQL script from SQL_Files/World_Wide_Energy_Consumption_Table_Creation.sql to create all tables and relationships.
+2. Run the SQL script from https://github.com/mrugakshiharkare/World-Wide-Energy-Consumption/blob/main/World_Wide_Energy_Consumption_Table_Creation.sql to create all tables and relationships.
 2. Import the datasets (CSV files) from the Dataset_Raw_Files.zip folder using MySQL Workbench → Table Data Import Wizard.
 3. Execute the query file SQL_Files/World_Wide_Energy_Consumption_Query_Solution.sql to perform analytical queries and generate insights.
 4. Refer to the presentation inside Presentation/ to understand final results and visualization.
