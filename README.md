@@ -59,10 +59,12 @@ CREATE DATABASE ENERGYDB2;
 - Gained clarity on energy–economy interdependence through data analysis.
 
 ### 📂 `Folder Structure`
-Folder	Description
-SQL_Files: Scripts for table creation and analytical queries
-Data_Files: CSV datasets used in the project
-Presentation: PowerPoint with ER diagram, visuals, and key outcomes
+- Data_file.zip : Contains all the CSV dataset files used in the project
+- World_Wide_Energy_Consumption_Table_Creation.sql : SQL script for creating all tables and relationships
+- World_Wide_Energy_Consumption_Query_Solution.sql : SQL script containing all analytical queries
+- World_Wide_Energy_Consumption_ER_Diagram.png : ER diagram of the database
+- World_Wide_Energy_consumption.pptx : Presentation file with visuals and insights
+
 
 ### 🧰 `Tools & Technologies`
 1.Database: MySQL
