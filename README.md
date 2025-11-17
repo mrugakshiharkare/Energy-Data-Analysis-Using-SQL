@@ -74,6 +74,21 @@ Tool: MySQL Workbench
 Visualization: PowerPoint
 
 ### 🚀 `Future Enhancements`
-- Combine SQL + Python dashboards for interactive analytics.
-- Use Streamlit or Tableau for visual storytelling.
-- Add real-time energy data APIs for global monitoring.
+
+1. Integrate SQL + Python Dashboards:
+Build interactive dashboards using Streamlit/Plotly to make insights more dynamic and accessible.
+
+2. Advanced Statistical Analysis:
+Apply correlation studies, time-series forecasting, and regression models to understand long-term energy trends.
+
+3. Visualization in BI Tools:
+Create richer visual stories using Tableau or Power BI for better stakeholder understanding.
+
+4. Real-Time Monitoring:
+Connect APIs (e.g., global energy datasets) to keep the dashboard updated with live statistics.
+
+5. Add More Data Sources:
+Combine multiple datasets — environment, climate, economic indicators — to provide deeper cross-domain insights.
+
+6. Performance Optimization:
+Explore indexing, stored procedures, and query optimization for faster analytics on large datasets.
