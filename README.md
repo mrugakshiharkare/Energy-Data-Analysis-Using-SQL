@@ -44,12 +44,20 @@ CREATE DATABASE ENERGYDB2;
 - Ratio & Per Capita Calculations for deeper insights
 
 ### 📊 `Key Insights`
+The following insights were derived from the analytical SQL queries and exploratory data analysis performed in this project. These insights reflect the patterns observed in the provided dataset, but additional or deeper insights may emerge through further analysis, depending on the questions explored.
 
-🔹 Energy Trends: Fossil fuels contribute the most to global emissions, while renewable adoption is still in progress.  
-🔹 Economic Insights: Top GDP countries like the USA, China, Japan, and India show higher consumption rates.  
-🔹 Environmental View: Some nations produce more energy than they consume, while others depend heavily on imports.  
-🔹 Population Impact: Rapidly growing populations tend to show increased per capita energy demand.  
-🔹 Global Change: A noticeable dip in 2020 emissions reflects the pandemic’s temporary impact on energy use.  
+- Energy & Emission Patterns: Fossil fuels remain the dominant contributor to global emissions, while renewable energy adoption is gradually increasing in several countries.
+
+- Economic Relationships: Countries with higher GDP typically show higher energy consumption, but the efficiency of energy use varies widely across nations.
+
+- Production vs Consumption: Some countries generate more energy than they consume (net exporters), while others depend heavily on imports, revealing economic and geopolitical dependencies.
+
+- Population Impact: Growing populations tend to have increasing per-capita energy demand, influencing both consumption patterns and long-term sustainability challenges.
+
+- Yearly Trends: Noticeable shifts, especially the dip in emissions around 2020, highlight how global events (such as the pandemic) can affect energy usage.
+
+- **Further Insights Possible:**
+Anyone exploring the dataset can extract additional insights — such as renewable growth rates, country-wise efficiency scores, per-capita emission comparisons, or multi-year trend forecasts — depending on specific analytical objectives.
 
 ### 📘 `Learnings`
 - Built a complete relational database system from scratch.
